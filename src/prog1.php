@@ -13,6 +13,8 @@
 $txt1 = "DevOps Demo using PHP";
 $txt2 = "Learnings!!";
 
+print "<h2>" ."A day for " .$txt2. "</h2>";
+
 print "A day for " . $txt2 . "<br>";
 
 // define variables and set to empty values
