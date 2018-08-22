@@ -11,7 +11,7 @@
 //comments
 
 $txt1 = "DevOps Demo using PHP";
-$txt2 = "Learnings!!.. DevOps demo!!!.. Muralindia!!. Super!";
+$txt2 = "Learnings!!.. DevOps demo!!!.. Muralindia!!. Demo1 Super!";
 
 print "<h2>" ."A day for " .$txt2. "</h2>";
 
